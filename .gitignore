@@ -1,4 +1,4 @@
-# It is a git ignore file
-
-logs/*
-!.gitkeep
+ # GitignoreFile 
+contact
+README
+Logs/
